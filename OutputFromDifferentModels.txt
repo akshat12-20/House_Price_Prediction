@@ -1,0 +1,30 @@
+1. DesicionTreeRegressor:
+Mean: 4.2970179509767075
+Standard deviation: 0.681848829686548
+
+2. LinearRegression:
+Mean: 5.037482786117752
+Standard deviation: 1.059438240560695
+
+3. RandomForestRegressor:
+Mean: 3.348821178240229
+Standard deviation: 0.7088361031788096
+Basically, 3.348821178240229 +- 0.7088361031788096
+
+On test set:
+Final predictions: 2.9996075805436444 (rmse)
+
+Conclusion:
+RandomForestRegressor is the best model till now.
+RandomForestRegressor> DesicionTreeRegressor> LinearRegression
+
+
+------------------------------------------------------------------------------------------------
+We only used 3 models.
+we did'nt fine tune the model.
+we did'nt use grid search cv.
+
+
+
+In Machine Learning, we have to keep on trying different models and techniques.
+There is no one model which is best for all cases. It depends on the problem and data.
