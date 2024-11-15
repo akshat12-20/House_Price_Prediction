@@ -19,12 +19,3 @@ RandomForestRegressor is the best model till now.
 RandomForestRegressor> DesicionTreeRegressor> LinearRegression
 
 
-------------------------------------------------------------------------------------------------
-We only used 3 models.
-we did'nt fine tune the model.
-we did'nt use grid search cv.
-
-
-
-In Machine Learning, we have to keep on trying different models and techniques.
-There is no one model which is best for all cases. It depends on the problem and data.
